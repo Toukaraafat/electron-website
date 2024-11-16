@@ -717,7 +717,7 @@ header.navbar.scroll .search {
 }
 /*------- contact section ------*/
 .contact.page .form{
-    background: url(../images/contact.jpeg) no-repeat;
+    background: url(../images/contact.jpg) no-repeat;
     position: relative;
     background-attachment: fixed;
     z-index: 1;
@@ -727,7 +727,7 @@ header.navbar.scroll .search {
 .contact.page .form::before {
     position: absolute;
     content: "";
-    background: #fafafad1;
+    background: #0c0808d1;
     width: 100%;
     height: 100%;
     right: 0;
@@ -754,7 +754,7 @@ header.navbar.scroll .search {
     padding: 15px;
     width: 100%;
     margin-bottom: 25px;
-    color: #fff;
+    color: #117df8;
     outline: 0;
     background: #fff;
 }
